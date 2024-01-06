@@ -8,8 +8,8 @@
     /* Couleur en mode HSL(hue, saturation, lightness) */
     --title-color: hsl(40, 48%, 12%);
     --text-color: hsl(40, 24%, 24%);
-    --body-color: hsl(40, 4%, 88%);
-    --container-color: hsl(40, 48%, 88%);
+    --body-color: hsl(0, 0%, 99%);
+    --container-color: hsl(0, 0%, 99%);
     /* La typographie et le fond */
     /* .5rem = 8px | 1rem = 16px */
     --body-font: "Montserrat", sans-serif;
